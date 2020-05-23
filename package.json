@@ -1,0 +1,13 @@
+{
+  "name": "aws-sdk-sample",
+  "version": "1.0.0",
+  "description": "First use of aws sdk",
+  "main": "sample.js",
+  "repository": "https://github.com/antoniolopesg/aws-sdk-sample",
+  "author": "antoniolopesg",
+  "license": "MIT",
+  "dependencies": {
+    "aws-sdk": "^2.683.0",
+    "node-uuid": "^1.4.8"
+  }
+}
